@@ -1,0 +1,13 @@
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\bin\Debug\netcoreapp3.1\Static_Members_Exercise.exe
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\bin\Debug\netcoreapp3.1\Static_Members_Exercise.deps.json
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\bin\Debug\netcoreapp3.1\Static_Members_Exercise.runtimeconfig.json
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\bin\Debug\netcoreapp3.1\Static_Members_Exercise.runtimeconfig.dev.json
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\bin\Debug\netcoreapp3.1\Static_Members_Exercise.dll
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\bin\Debug\netcoreapp3.1\Static_Members_Exercise.pdb
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.csprojAssemblyReference.cache
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.AssemblyInfoInputs.cache
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.AssemblyInfo.cs
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.csproj.CoreCompileInputs.cache
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.dll
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.pdb
+D:\Codes\C#\OOP_in_C#\Static_Members_Exercise\obj\Debug\netcoreapp3.1\Static_Members_Exercise.genruntimeconfig.cache
