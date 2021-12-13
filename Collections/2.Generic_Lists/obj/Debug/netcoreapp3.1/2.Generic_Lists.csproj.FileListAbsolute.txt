@@ -1,0 +1,13 @@
+D:\Codes\C#\Collections\2.Generic_Lists\bin\Debug\netcoreapp3.1\2.Generic_Lists.exe
+D:\Codes\C#\Collections\2.Generic_Lists\bin\Debug\netcoreapp3.1\2.Generic_Lists.deps.json
+D:\Codes\C#\Collections\2.Generic_Lists\bin\Debug\netcoreapp3.1\2.Generic_Lists.runtimeconfig.json
+D:\Codes\C#\Collections\2.Generic_Lists\bin\Debug\netcoreapp3.1\2.Generic_Lists.runtimeconfig.dev.json
+D:\Codes\C#\Collections\2.Generic_Lists\bin\Debug\netcoreapp3.1\2.Generic_Lists.dll
+D:\Codes\C#\Collections\2.Generic_Lists\bin\Debug\netcoreapp3.1\2.Generic_Lists.pdb
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.csprojAssemblyReference.cache
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.AssemblyInfoInputs.cache
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.AssemblyInfo.cs
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.dll
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.pdb
+D:\Codes\C#\Collections\2.Generic_Lists\obj\Debug\netcoreapp3.1\2.Generic_Lists.genruntimeconfig.cache
