@@ -1,0 +1,13 @@
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Codes\C#\Exercise\w3\Basics\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
