@@ -43,7 +43,7 @@ namespace ORM_Entity_Framework
                                         Total = (decimal)o.OrderDetails.Sum(od => od.Quantity * od.UnitPrice)
                                     }).ToList() // orders is a list, this is required.
                                 })
-                                .OrderBy(i=>i.OrderCount)
+                                .OrderBy(i => i.OrderCount)
                                 .ToList();
                 foreach (var customer in customers)
                 {
